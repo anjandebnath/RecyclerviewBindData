@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RecyclerviewBindData</string>
+    <string name="about_me">About Me</string>
+    <string name="card_title">The Beast</string>
+    <string name="action_share">Share</string>
+    <string name="action_explore">Explore</string>
+    <string name="card_content">Lorem ipsum is a pseudo-Latin text used in web design, typography, layout, and printing in place of English to emphasise design elements over content.  Also called placeholder (or filler) text. It's a convenient tool for mock-ups. It helps to outline the visual elements of a document or presentation, eg typography, font, or layout. Lorem </string>
+</resources>
